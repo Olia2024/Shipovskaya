@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Разработчик Шиповская</title>
+<link rel="stylesheet" href="styles/main.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    
+    <!--Шапка сайта-->
+<header>
+
+<div class="container">
+
+    <nav class="navigator">
+    <a href="#about">Обо мне</a>
+    <a href="#skills">Навыки</a>
+    <a href="#technologies">Технологии</a>
+    </nav>
+    <h1 class="name">Шиповская Ольга Игоревна</h1>
+    <h2>Веб-дизайнер</h2>
+    <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Nostrum unde molestias commodi nulla quibusdam cumque. 
+    Libero rem, similique blanditiis deserunt ipsum quo magni modi ab! 
+    Reiciendis numquam ipsa cum id magnam harum nobis nihil. 
+    Corporis laborum quisquam dignissimos rerum laboriosam, eaque non harum blanditiis, 
+    minima reiciendis sapiente repudiandae, facere temporibus. 
+    Hic necessitatibus nam asperiores ipsum, omnis voluptatum delectus 
+    dignissimos voluptatibus similique consequatur perferendis officia fugit 
+    magnam eos ex quod inventore quae! Illo perspiciatis excepturi voluptatum minima? 
+    Accusantium assumenda nihil impedit, eligendi minus odio, officiis ipsa voluptas 
+    quidem aliquid vitae expedita modi deleniti eaque. Quod quae cumque consequuntur numquam quia enim.
+    </p>
+    <a class="btn contact_btn" href="#">Написать мне</a>
+</div>
+
+</header>
+<!--Основная часть-->
+<main>
+    <div class="container">
+<!--Личная информация-->
+
+
+    <section id="about">
+        <h2>Обо мне</h2>
+
+        <figure class="avatar">
+            <img src="images/person.png" alt="Персонаж">
+        </figure>
+
+        <p class="blue">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Recusandae nesciunt laborum beatae quam ipsa id cupiditate 
+            eligendi error nostrum atque consectetur possimus consequatur quasi, 
+            odio commodi eius dolor quae vel itaque repellendus magnam ex, 
+            alias perspiciatis corporis! Veniam ducimus, non, doloribus asperiores 
+            quasi consequatur tenetur hic quis adipisci eos eligendi quia repellat, 
+            iure maxime inventore nemo iusto sapiente. Eum iure natus repudiandae fugit culpa 
+            architecto ipsam cumque alias, ad obcaecati, ipsa vitae ex itaque quas dolorem 
+            perspiciatis rem ipsum omnis aliquam aut labore maiores quasi exercitationem voluptatibus. 
+            Totam asperiores aspernatur quis eligendi! Beatae fuga explicabo consectetur quaerat 
+            voluptatum, dicta vel tempora soluta ut voluptatem mollitia repellendus minus debitis 
+            quisquam omnis aspernatur magni unde laboriosam. Veniam velit in iure aliquid praesentium 
+            neque unde obcaecati, odio tempora aspernatur labore ad, minima voluptatum asperiores quia, 
+            eius voluptate vero ullam. Aut officia vero molestiae ratione dolor harum laboriosam excepturi? 
+            Voluptate ut accusantium eligendi eaque.
+        </p>
+    </section>
+
+    <!--Навыки-->
+    <section id="skills">
+        <h2>Навыки</h2>
+    <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Recusandae nesciunt laborum beatae quam ipsa id cupiditate 
+            eligendi error nostrum atque consectetur possimus consequatur quasi, 
+            odio commodi eius dolor quae vel itaque repellendus magnam ex, 
+            alias perspiciatis corporis! Veniam ducimus, non, doloribus asperiores 
+            quasi consequatur tenetur hic quis adipisci eos eligendi quia repellat, 
+            iure maxime inventore nemo iusto sapiente. Eum iure natus repudiandae fugit culpa 
+            architecto ipsam cumque alias, ad obcaecati, ipsa vitae ex itaque quas dolorem 
+            perspiciatis rem ipsum omnis aliquam aut labore maiores quasi exercitationem voluptatibus. 
+            Totam asperiores aspernatur quis eligendi! Beatae fuga explicabo consectetur quaerat 
+            voluptatum, dicta vel tempora soluta ut voluptatem mollitia repellendus minus debitis 
+            quisquam omnis aspernatur magni unde laboriosam. Veniam velit in iure aliquid praesentium 
+            neque unde obcaecati, odio tempora aspernatur labore ad, minima voluptatum asperiores quia, 
+            eius voluptate vero ullam. Aut officia vero molestiae ratione dolor harum laboriosam excepturi? 
+            Voluptate ut accusantium eligendi eaque.
+        </p>
+        <a class="btn" href="#">Подробнее</a>
+
+    </section>
+    <!--Технологии-->
+    <section id="technologies">
+        <h2>Технологии</h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Repellat accusamus consectetur quas! Non ipsum hic sit dolores 
+        quasi quisquam similique ullam quam distinctio accusantium exercitationem, 
+        rem nobis odio laboriosam quo adipisci facere a iste consectetur itaque porro debitis? 
+        Eum consequuntur harum voluptatum animi autem voluptas totam praesentium ea impedit, 
+        temporibus dolor nisi facere doloremque? Saepe blanditiis ipsa repudiandae ullam odit 
+        provident delectus adipisci dolore voluptates unde perspiciatis beatae quidem minus non 
+        sequi optio commodi laudantium, quia reiciendis ab impedit quas! Natus inventore voluptas rem, 
+        repudiandae quis autem laudantium veritatis qui?
+    </p>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JvaScript</li>
+        <li>Figma</li>
+    </ul>
+    <a class="btn" href="#">Подробнее</a>
+
+    </section>
+    
+</main>
+<!--Подвал (футер)-->
+<footer>
+    
+    <div class="container">
+
+        &copy; Шиповская О.И.
+    </div>
+
+</footer>
+</body>
+
+</html>
